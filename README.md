@@ -5,6 +5,7 @@
 ## What is this?
 
 This is a web app for generating FastLED gradient palettes from images.
+Check it out [here.](http://slaton.info/projects/fastled-gradient-tool/index.html)
 
 ## Usage
 
