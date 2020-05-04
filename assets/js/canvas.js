@@ -95,6 +95,9 @@ function getPixels(){
     outString += ",";
     // Strip the prefix used for the gradient preview and alpha channel
     outString += (pixelsSplit[color].slice(5,-5));
+    if(color < numColors - 1){
+      outString += ",";
+    }
     outString += "\n";
   }
 
