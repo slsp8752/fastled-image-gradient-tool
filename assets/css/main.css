@@ -1,0 +1,5 @@
+/* Background Image */
+body {
+  background-image: url("/assets/img/prism.png");
+  background-repeat: repeat;
+}
